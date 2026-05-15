@@ -113,7 +113,12 @@ Wanna buy me a coffee?
 No thanks..I love to do this work for free.ily :)
 <BR>
 Also, I'm 14 :/
-
+<br>
+<br>
+Fix the "Library.itl" Error:
+<br>
+<br>
+If you open iTunes and see an error stating “The file iTunes Library.itl cannot be read...”, do this:Navigate to your computer's Music > iTunes folder.Delete or rename the file iTunes Library.itl.Restart iTunes.
 
 
 
