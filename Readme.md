@@ -42,9 +42,9 @@ Here, I can't download Netflix Because it requires IOS 18 and above but, I have 
 <br>
 <img width="357" height="265" alt="awh&#39;" src="https://github.com/user-attachments/assets/41b2cc7f-32f6-4a5a-9404-8a00984caae3" />
 <br>
-Go to your Computer and search,
+Go to your Computer and search, Netflix appstore"
 <br>
-"Netflix appstore"
+
 <img width="872" height="325" alt="Screenshot 2026-05-04 220334" src="https://github.com/user-attachments/assets/09e3d6b2-34f0-4fcc-88ab-a076ec10b2f7" />
 <br>
 This would be your link you would find in your App store.
