@@ -29,7 +29,10 @@ Anyone with any macs older than 2018 NEED to use tools like Retroactive,
 <br>
 Linux: Linux users can download and run iTunes 12.6.5.3 by using Wine, a compatibility layer that allows Windows applications to run on Linux.
 ALL OF THIS IS 64 BIT..32 Bit installers can be downloaded By searching "Itunes 12.6.5.3 download <your os> 32 BIT."
-  
+For Windows: Please fully uninstall all Apple components via Control Panel before running your Google Drive installer. This includes Apple Software Update, Apple Mobile Device Support, and Bonjour, or the old installer will fail.
+For Apple Silicon Macs(M1/M2/M3):Note that Retroactive no longer works on macOS Sonoma (14.0) or macOS Sequoia (15.0) due to Apple completely dropping the legacy frameworks required to interpret Intel iTunes code. For modern Macs, running a Windows 11 ARM VM via UTM or Parallels with the Windows 64-bit installer is now the only functional path.
+For Linux: Emphasize that Wine requires the wine-gecko and wine-mono packages installed to render the HTML elements of the iTunes Store correctly, otherwise the center screen will load as a blank white page.
+
 ## Step 2: SET UP the Hardest part. Probably.
 After the completion of the installer You should have itunes 12.6.5.3.
 **PLEASE USE THE SAME APPLE ID YOU HAVE ON YOUR IPHONE(which you want to use) and the same one with which you are going to login into Itunes.**
@@ -44,6 +47,7 @@ Here, I can't download Netflix Because it requires IOS 18 and above but, I have 
 <br>
 Go to your Computer and search, Netflix appstore"
 <br>
+
 
 <img width="872" height="325" alt="Screenshot 2026-05-04 220334" src="https://github.com/user-attachments/assets/09e3d6b2-34f0-4fcc-88ab-a076ec10b2f7" />
 <br>
