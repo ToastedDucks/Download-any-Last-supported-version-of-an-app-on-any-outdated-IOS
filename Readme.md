@@ -76,6 +76,7 @@ THIS IS WHAT it is supposed to look like and when you click enter this prompt sh
 Click on, Open Itunes.
 <br>
 <br>
+
 ## Step 5: Downloading it,the easiest part.
 After waiting for 20 seconds or so Itunes shows the app,
 <br>
