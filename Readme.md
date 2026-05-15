@@ -22,7 +22,9 @@ https://drive.google.com/file/d/1nV1p5wPvdh93Drr9XEFNOXyHFremjP_y/view?usp=drive
 You can just simply download legacy from this website(Uptodown): https://itunes.en.uptodown.com/mac/versions
 Go to this link,
 AND SPECIFICALLY CLICK ON 12.6.2.
+<br>
 <img width="483" height="68" alt="Screenshot 2026-05-04 212315" src="https://github.com/user-attachments/assets/32ebab5f-8d10-47f1-9f42-9a4d17047ff1" />
+<br>
 Anyone with any macs older than 2018 NEED to use tools like Retroactive,
 <br>
 Linux: Linux users can download and run iTunes 12.6.5.3 by using Wine, a compatibility layer that allows Windows applications to run on Linux.
@@ -37,6 +39,7 @@ After that you can use the link: itms://itunes.apple.com/app/ID-HERE
 -how to use it,
 <br>
 Here, I can't download Netflix Because it requires IOS 18 and above but, I have IOS 16.
+<br>
 <img width="357" height="265" alt="awh&#39;" src="https://github.com/user-attachments/assets/41b2cc7f-32f6-4a5a-9404-8a00984caae3" />
 <br>
 Go to your Computer and search,
@@ -55,26 +58,40 @@ Now open a new tab an paste this link:
  <br>
  <br>
  This, Would make your app in ( itms://itunes.apple.com/app/ID-HERE )
+ <br>
 <img width="428" height="281" alt="appy" src="https://github.com/user-attachments/assets/b020ab72-ed86-4a03-8e8d-8f7666a5cb95" />
+<br>
 AND this, would your app id in here ( itms://itunes.apple.com/app/ID-HERE)
+<br>
 <img width="774" height="327" alt="id" src="https://github.com/user-attachments/assets/d4be7f23-c36a-4319-bc30-8bd45414fed1" />
+<br>
 Making it, 
+<br>
 <img width="382" height="37" alt="link 2" src="https://github.com/user-attachments/assets/fe97756f-6924-4442-930c-ce3b11300130" />
+<br>
 THIS IS WHAT it is supposed to look like and when you click enter this prompt should show up,
+<br>
 <img width="426" height="159" alt="request" src="https://github.com/user-attachments/assets/d8b46eb7-d609-4c85-b80a-9f15f1c23a73" />
+<br>
 Click on, Open Itunes.
 <br>
 <br>
 ## Step 5: Downloading it,the easiest part.
 After waiting for 20 seconds or so Itunes shows the app,
+<br>
 <img width="477" height="327" alt="ezez" src="https://github.com/user-attachments/assets/f17104eb-50ca-414f-b466-459fdb12809e" />
+<br>
 Click on "Get+"
 <br>
 Then, Click "Download+"
 Then go to your Iphone, search the app, In my case, Netflix 
+<br>
 <img width="352" height="309" alt="prompt" src="https://github.com/user-attachments/assets/8cef9ff7-5c04-43dd-b879-4d734623e91b" />
+<br>
 And volia, your app finally  will download, 
+<br>
 <img width="888" height="270" alt="this" src="https://github.com/user-attachments/assets/c09ad0c5-76ef-4234-b3a4-a28a358a19ab" />
+<br>
 <br>
 <br>
 Thanks alot everybody!
